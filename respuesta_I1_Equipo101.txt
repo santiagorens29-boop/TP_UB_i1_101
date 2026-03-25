@@ -11,3 +11,5 @@ b) Sí, pero  después de que  hago el
 "triple comando" (add, commit, push).
 Mis compañeros no pueden ver lo que tengo
  en mi PC hasta que lo empujo al servidor de GitHub.
+
+ 
