@@ -1,3 +1,13 @@
 Santiago Rens 
 Tomas Bolotnicoff
 Santiago Crudele
+
+a) Sí, pero solo después de que ellos 
+hagan un push y vos hagas un pull. 
+En Git, los cambios de tus compañeros 
+(BETA y GAMMA) viven en la "nube" de GitHub hasta que vos 
+los descargás a tu computadora.
+b) Sí, pero  después de que  hago el 
+"triple comando" (add, commit, push).
+Mis compañeros no pueden ver lo que tengo
+ en mi PC hasta que lo empujo al servidor de GitHub.
